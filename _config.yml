@@ -1,1 +1,13 @@
 theme: jekyll-theme-minimal
+
+title: Khmer Typing
+email: support@passerellesnumeriques.org
+description: >- 
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "/khmer-typing-website"
+url: "https://passerelles-numeriques.github.io"
+twitter_username: passerellesnume
+github_username: "passerelles-numeriques"
+logo: "images/icon-512x512.png"
